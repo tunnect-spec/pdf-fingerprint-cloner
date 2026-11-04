@@ -1,0 +1,8 @@
+.venv/
+.venv_build/
+__pycache__/
+*.pyc
+*.pdf
+dist/
+build/
+.DS_Store
